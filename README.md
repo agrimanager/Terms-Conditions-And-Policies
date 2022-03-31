@@ -16,13 +16,13 @@
   <summary>Tabla de contenido</summary>
   <ol>
     <li>
-      <a href="#terminos-y-condiciones-de-uso">Términos y condiciones de uso</a>
+      <a href="#términos-y-condiciones-de-uso">Términos y condiciones de uso</a>
     </li>
         <li>
-      <a href="#politica-de-privacidad">Política de Privacidad</a>
+      <a href="#política-de-privacidad">Política de Privacidad</a>
     </li>
     <li>
-      <a href="#politica-de-tratamiento-de-datos">Política de Tratamiento de datos</a>
+      <a href="#política-de-tratamiento-de-datos">Política de Tratamiento de datos</a>
     </li>
   </ol>
 </details>
